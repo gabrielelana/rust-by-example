@@ -1,4 +1,3 @@
-rust-by-example
-===============
+# Rust by Example
 
-Rust by Example http://rustbyexample.com/
+Learn Rust one example at time
