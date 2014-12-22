@@ -30,7 +30,7 @@ fn main() {
     borrow_book(&geb);
 
     // Error! Can't borrow an immutable object as mutable
-    new_edition(&mut geb);
+    // new_edition(&mut geb);
     // FIXME ^ Comment out this line
 
     // `mutable_geb` is a mutable copy of `geb`
